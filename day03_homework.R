@@ -1,6 +1,6 @@
 # DAY 3 HOMEWORK
 #
-# Name:
+# Name: Ayane Sekine
 
 # 0. This demonstrates how to save your answers.
 # I've written the answer for you.
@@ -25,14 +25,19 @@ answer_0 <- 365 * 5
 # HINT: use 1 ft = 0.3048 m
 # HINT: use 1 lb = 0.4536 kg
 
-weight_lb <- 160
-height_ft <- 6
+155 * 0.3048
+48 * 0.4536
+
+weight_lb <- 47.244
+height_ft <-  21.7728
 
 # 2. The following code has an error. Fix it by editing the code.
 # (You don't need to save a separate answer for this one, just fix the code.)
 
 volume_oz <- 130
 volume_ml <- Volume_oz * 29.574
+
+
 
 # 3. What is the value of z after running the following code?
 #
